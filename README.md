@@ -4,5 +4,5 @@ Implementing Model Predictive Control in Path Planning of turtlebot in ROS using
 
 Equations
 ----------
-![temp](https://user-images.githubusercontent.com/79641410/122594753-149d1a00-d085-11eb-8306-d5a9ce2610c2.png)
+![temp_1](https://user-images.githubusercontent.com/79641410/122594899-49a96c80-d085-11eb-87fe-f622b2c47201.png)
 
