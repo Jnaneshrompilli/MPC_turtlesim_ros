@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="turtlesim" name="sim" type="turtlesim_node"/>
+    <rosparam command="load" file="$(find intermediate_level)/params/path_planner_params.yaml"/>
+    
+</launch>
