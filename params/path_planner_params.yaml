@@ -1,0 +1,18 @@
+N: 5
+dt: 0.1
+x_lower: -15
+x_upper: 15
+y_lower: -15
+y_upper: 15
+theta_upper: -3.14
+theta_lower: 3.14
+v_lin_lower: 0
+v_lin_upper: 3.5
+v_ang_lower: -1.57
+v_ang_upper: 1.57
+a_lin_lower: -5
+a_lin_upper: 5
+a_ang_lower: -5
+a_ang_upper: 5
+
+
